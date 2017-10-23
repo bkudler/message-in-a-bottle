@@ -7,3 +7,12 @@ This application was conceived, designed, and deployed by:
 - Alex Bills (abb1991)
 - Ben Behrman (bbehrman10)
 - Ben Kudler (bkudler)
+
+# Dependencies
+
+You will need to have Ruby On Rails installed.
+
+# Contributing
+
+
+Please make a pull request from a seperate branch and keep clear commit messages. Any new feature or clean up is welcome!
